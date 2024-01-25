@@ -40,6 +40,10 @@ Open the project by selecting the cloned directory.
 
 4.Explore the codebase and customize it as needed.
   Feel free to contribute by submitting bug reports, feature requests, or pull requests.
+  
+  Screenshots:
+  ![barcode_App2](https://github.com/wahid18-maqs/BarCode_QRCode_Scanner_Android_Application/assets/136440023/191b2f91-2f04-4647-8da3-e169160b57bb)
+
 
 Notes
 This app prioritizes user privacy, handling data securely during the scanning process.
