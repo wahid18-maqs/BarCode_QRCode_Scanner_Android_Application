@@ -11,8 +11,7 @@ Welcome to the QR and Barcode Scanner app repository! This Android application, 
 - **QR Code Decoding:** Swiftly read QR codes, revealing information such as website links, contact details, and more.
 - **User-Friendly Interface:** Intuitive design for a seamless scanning experience.
 - **Real-time Feedback:** Instant feedback on successful code scans.
-- **History and Favorites:** Keep track of scan history and mark favorite scans for quick access.
-- **Lightweight and Fast:** Optimized for performance with quick launch times.
+
 
 ## Requirements
 
