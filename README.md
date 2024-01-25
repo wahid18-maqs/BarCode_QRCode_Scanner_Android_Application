@@ -44,7 +44,8 @@ Open the project by selecting the cloned directory.
   Screenshots:
   ![barcode_App2](https://github.com/wahid18-maqs/BarCode_QRCode_Scanner_Android_Application/assets/136440023/191b2f91-2f04-4647-8da3-e169160b57bb)
 
-  ![Screenshot_20240125-162441~2](https://github.com/wahid18-maqs/BarCode_QRCode_Scanner_Android_Application/assets/136440023/c890d524-606d-4d19-864e-bed7224a3582)
+  ![Screenshot_20240125-165053](https://github.com/wahid18-maqs/BarCode_QRCode_Scanner_Android_Application/assets/136440023/b14d556a-c244-4c6b-a757-44c827e69dd3)
+
 
 
 
