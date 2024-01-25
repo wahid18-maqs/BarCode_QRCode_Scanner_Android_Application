@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Barcode &amp; QR Code Scanner"
+            style="@style/TextAppearance.MaterialComponents.Headline6"
+            android:textAlignment="center"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cameraBtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_weight="1"
+
+                android:text="Camera" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/galleryBtn"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_marginStart="5dp"
+                android:layout_height="wrap_content"
+
+                android:text="Gallery"/>
+
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/imageIv"
+            android:layout_width="match_parent"
+            android:src="@drawable/_94_1948136_qr_code_scanner_icon"
+            android:adjustViewBounds="true"
+            android:layout_height="wrap_content"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/scanBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Scan"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.MaterialComponents.Body1"
+            android:text="Result : "/>
+
+        <TextView
+            android:id="@+id/resultTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>
